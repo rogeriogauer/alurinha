@@ -17,8 +17,8 @@
 
 - [Desenvolvedores](#grinning-desenvolvedores)
 
-## :page_with_curl: Descrição:
-Site suscinto de uma escola de tecnologia da informação.
+## :scroll: Descrição:
+Site de uma escola de tecnologia da informação.
 
 ## :mega: Demonstração:
 - Versão desktop
