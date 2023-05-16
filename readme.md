@@ -5,6 +5,8 @@
 <img src="https://img.shields.io/badge/vers%C3%A3o-v1.0.0-1414b9">
 </p>
 
+<br/>
+
 ## :bookmark_tabs: Índice:
 
 - [Descrição](#pagewithcurl-descrição)
@@ -17,24 +19,38 @@
 
 - [Desenvolvedores](#grinning-desenvolvedores)
 
+<br/>
+
 ## :scroll: Descrição:
 Site de uma escola de tecnologia da informação.
+
+<br/>
 
 ## :mega: Demonstração:
 - Versão desktop
 
-<img src="img\alurinhaDesktop.gif">
+<br/>
+<img src="img\alurinhaDesktop.gif" width="170" height="350">
+
+<br/>
 
 - Versão mobile
 
-<img src="img\alurinhaMobile.gif">
+<br/>
+<img src="img\alurinhaMobile.gif" width="170" height="350">
+
+<br/>
 
 ## :dart: Objetivos:
 Projeto desenvolvido para aprender, exercitar, praticar e fixar a propriedade CSS FlexBox e suas características. 
 
+<br/>
+
 ## :heavy_check_mark: Tecnologias Utilizadas:
 - HTML 5
 - CSS 3
+
+<br/>
 
 ## :grinning: Desenvolvedores:
 | [<img src="https://avatars.githubusercontent.com/u/96431522?v=4" width=115><br><sub>Rogério Gauer</sub>](https://github.com/rogeriogauer) |[<img src="https://media-exp1.licdn.com/dms/image/C4D03AQEZUryu34Vq1A/profile-displayphoto-shrink_200_200/0/1530658790068?e=1659571200&v=beta&t=9kHYobE9ESdMxElaXWIqfmRcEStRlDr5C_ixYa55oxc" width=115><br><sub>Yuri Padilha</sub>](https://www.linkedin.com/in/yuri-padilha/) | 
