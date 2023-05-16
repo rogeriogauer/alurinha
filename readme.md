@@ -30,14 +30,14 @@ Site de uma escola de tecnologia da informação.
 - Versão desktop
 
 <br/>
-<img src="img\alurinhaDesktop.gif" width="170" height="350">
+<img src="img\alurinhaDesktop.gif" width="530" height="260">
 
 <br/>
 
 - Versão mobile
 
 <br/>
-<img src="img\alurinhaMobile.gif" width="170" height="350">
+<img src="img\alurinhaMobile.gif" width="530" height="260">
 
 <br/>
 
